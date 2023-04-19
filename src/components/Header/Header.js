@@ -7,6 +7,13 @@ const Header = () => {
                 <div className="header">
                     <h1>Aisedep</h1>
                     <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
+                    <p>Erkaiym</p>
 
                 </div>
             </div>
